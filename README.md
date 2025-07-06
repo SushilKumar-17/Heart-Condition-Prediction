@@ -33,13 +33,13 @@ Built using **Streamlit**, this tool offers accessibility, speed, and usability 
 <div align="center">
 
 <u>**Patient Form Input Interface**</u>  
-<img src="assets/img (1).png" alt="form sample" width="600"/>
+<img src="assets/img (6).png" alt="form sample" width="600"/>
 
 <u>**Click on Add Patients to add patient details**</u>  
 <img src="assets/img (5).png" alt="prediction output" width="600"/>
 
 <u>**High Risk**</u>  
-<img src="assets/img (3).png" alt="prediction output" width="600"/>
+<img src="assets/img (7).png" alt="prediction output" width="600"/>
 
 
 </div>
@@ -79,17 +79,22 @@ Built using **Streamlit**, this tool offers accessibility, speed, and usability 
 </div>
 
 </div>
+<div>
+  <strong>Model Insights</strong><br>
+  <img src="assets/Mo1.png" alt="Model Insights" width="700">
+</div>
 
 ---
 
 ## Model Performance and Selection
 
-We trained and evaluated three different machine learning models. Based on ROC AUC scores, **Random Forest** performed the best and was selected for deployment.
+We trained and evaluated three different machine learning models. Based on ROC AUC scores, **Random Forest** performed the best.
+For deployment we selected **Logistic Regression**
 
 | Model                 | ROC AUC Score       | Selected |
 |-----------------------|---------------------|----------|
-| Random Forest         | **0.9621**           | Yes   |
-| Logistic Regression   | 0.9408               | No       |
+| Random Forest         | **0.9621**           | NO   |
+| Logistic Regression   | 0.9408               | Yes       |
 | XGBoost Classifier    | 0.9308               | No       |
 
 ---
