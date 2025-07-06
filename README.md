@@ -74,13 +74,8 @@ Built using **Streamlit**, this tool offers accessibility, speed, and usability 
 <div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
 <div>
-  <strong>SideBar Section to Add Details</strong><br>
-  <img src="assets/img (2).png" alt="Sidebar" width="300" height="900"/>
-</div>
-
-<div>
   <strong>Model Insights</strong><br>
-  <img src="assets/Mo.png" alt="Model Insights" width="400" height="200"/>
+  <img src="assets/Mo.png" alt="Model Insights" width="700">
 </div>
 
 </div>
