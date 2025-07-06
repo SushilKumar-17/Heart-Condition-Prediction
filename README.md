@@ -78,10 +78,12 @@ Built using **Streamlit**, this tool offers accessibility, speed, and usability 
   <img src="assets/Mo.png" alt="Model Insights" width="700">
 </div>
 
-</div>
+
 <div>
   <strong>Model Insights</strong><br>
   <img src="assets/Mo1.png" alt="Model Insights" width="700">
+</div>
+
 </div>
 
 ---
