@@ -5,6 +5,9 @@ import joblib
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+import sklearn
+
+
 st.set_page_config(page_title="Heart Disease Prediction", layout='wide')
 
 model = joblib.load("heart_model.pkl")
