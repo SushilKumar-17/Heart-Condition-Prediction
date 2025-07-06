@@ -4,6 +4,16 @@
 > This application is intended strictly for **clinical use only**. Inputs such as Thalassemia, ST Depression, and Number of Major Vessels require medical tests and cannot be self-diagnosed by general users.
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
 
 ## Overview
 
@@ -23,13 +33,14 @@ Built using **Streamlit**, this tool offers accessibility, speed, and usability 
 <div align="center">
 
 **Patient Form Input Interface**  
-<img src="assets/form_sample.png" alt="form sample" width="600"/>
+<img src="assets/img (1).png" alt="form sample" width="600"/>
 
-**Prediction Output and Confidence**  
-<img src="assets/prediction_sample.png" alt="prediction output" width="600"/>
+**Click on Add Patients to add patient details**  
+<img src="assets/img (5).png" alt="prediction output" width="600"/>
 
-**Model Feature Importance**  
-<img src="assets/feature_importance.png" alt="feature importance" width="600"/>
+**High Risk**  
+<img src="assets/img (3).png" alt="prediction output" width="600"/>
+
 
 </div>
 
@@ -60,6 +71,20 @@ Built using **Streamlit**, this tool offers accessibility, speed, and usability 
 
 > Patient Name, ID, and Personal Age are stored only for record-keeping and are **not used** in model training or prediction.
 
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+<div>
+  <strong>SideBar Section to Add Details</strong><br>
+  <img src="assets/img (2).png" alt="Sidebar" width="300" height="900"/>
+</div>
+
+<div>
+  <strong>Model Insights</strong><br>
+  <img src="assets/Mo.png" alt="Model Insights" width="400" height="200"/>
+</div>
+
+</div>
+
 ---
 
 ## Model Performance and Selection
@@ -85,4 +110,4 @@ We trained and evaluated three different machine learning models. Based on ROC A
 ---
 ## Final Note
 
-This project is a demonstration of how machine learning models can be deployed using interactive web applications to assist in medical decision-making. While the model performs well on historical clinical data, it should not replace expert medical judgment. Continuous monitoring, retraining on updated data, and ethical deployment practices are recommended.
+>This project is a demonstration of how machine learning models can be deployed using interactive web applications to assist in medical decision-making. While the model performs well on historical clinical data, it should not replace expert medical judgment. Continuous monitoring, retraining on updated data, and ethical deployment practices are recommended.
