@@ -32,13 +32,13 @@ Built using **Streamlit**, this tool offers accessibility, speed, and usability 
 
 <div align="center">
 
-**Patient Form Input Interface**  
+<u>**Patient Form Input Interface**</u>  
 <img src="assets/img (1).png" alt="form sample" width="600"/>
 
-**Click on Add Patients to add patient details**  
+<u>**Click on Add Patients to add patient details**</u>  
 <img src="assets/img (5).png" alt="prediction output" width="600"/>
 
-**High Risk**  
+<u>**High Risk**</u>  
 <img src="assets/img (3).png" alt="prediction output" width="600"/>
 
 
