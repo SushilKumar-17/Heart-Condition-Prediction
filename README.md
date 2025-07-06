@@ -25,7 +25,7 @@ Built using **Streamlit**, this tool offers accessibility, speed, and usability 
 
 ## Live Demo
 
-[Click here to access the deployed Streamlit app](https://heart-disease-streamlit-demo.streamlit.app](https://heart-condition-prediction-94atfwwmnjkthnywacchmm.streamlit.app/)
+[Click here to access the deployed Streamlit app](https://heart-condition-prediction-94atfwwmnjkthnywacchmm.streamlit.app/)
 
 ---
 ## Application Preview
